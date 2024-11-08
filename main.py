@@ -1,8 +1,1 @@
-
-# Домашнее задание
-example = 'Dmitriy'
-print(example [0])
-print(example[-1])
-print(example[4:])
-print(example[::-1])
-print(example[1:7:2])
+print("Hello world")
